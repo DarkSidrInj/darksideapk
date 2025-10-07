@@ -1,0 +1,11 @@
+{
+  "serverstatus": "true",
+  "noticemode": "false",
+  "dataclearmode": "false",
+  "meassage": "Welcome to UKIV5 service",
+  "time": "12:00",
+  "libs": "https://github.com/DarkSidrInj/darksideapk/releases/download/lskd/UKIV5.zip",
+  "title": "Important Notice",
+  "body": "Server is running normally",
+  "zip_pass": "UKIV5.zip"
+}
